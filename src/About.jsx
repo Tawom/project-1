@@ -1,0 +1,3 @@
+export default function About(){
+    return <h1>Vang Vieng has a tropical savannah climate with dry and wet seasons. The most rain falls from May to September, the rest of the year is relatively dry. Temperatures are quite high all year, the average temperature is about 23°C – 33°C in the wet season and 15°C – 35°C in the dry season. Due to the geography that covered by many rivers, tourists should visit this area in the dry season to be able to enjoy all the famous destinations as well as festivals in Vang Vieng</h1>
+}
